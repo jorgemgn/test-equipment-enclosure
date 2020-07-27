@@ -5,8 +5,9 @@
 ### Author
 Jorge Miguel González Novez  |  _Senior Technician in Electrotechnical and Automated Systems_
 
-### Wiring diagrams  
-- [Wiring](./documents/plano-electrico-v1.pdf)
+### Wiring diagrams and images  
+- [Wiring](./documents/plano-electrico-v1.pdf)  
+- [Images](./pictures/)
 
 ### Materials  
 
