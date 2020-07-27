@@ -20,4 +20,9 @@ TO-DO
 
 TO-DO
 
-<div align="left"><img src="pictures/risk.png" width="250"/>
+<img src="pictures/risk.png" width="250"/>
+  
+### Software licenses
+
+<img src="pictures/logo-eplan.png" width="150"/>
+[EPLAN](https://www.eplaneducation.es/es/download-eplan-education/eplan-education/ "EPLAN Education Homepage")
