@@ -18,11 +18,15 @@ TO-DO
 
 ### Liability
 
-TO-DO
+**I am not responsible for the inappropriate of the information shown here.  
+As well as for any accident caused by the incorrect use of the materials and/or tools.  
+Electricity is not a game.  
+Always follow the 5 golden rules.**
 
-<img src="pictures/risk.png" width="250"/>
+<img src="pictures/risk.png" width="100"/>
   
 ### Software licenses
 
-<img src="pictures/logo-eplan.png" width="150"/>
-[EPLAN](https://www.eplaneducation.es/es/download-eplan-education/eplan-education/ "EPLAN Education Homepage")
+<img src="pictures/logo-eplan.png" width="100"/> 
+
+<https://www.eplaneducation.es/es/download-eplan-education/eplan-education>  
