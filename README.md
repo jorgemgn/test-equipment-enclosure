@@ -1,8 +1,6 @@
 # Test equipment cabinet
 
-<div align="left"><img src="pictures/vista-3d.jpg" width="500"/>
-
-<div align="right"><img src="pictures/vista-frontal-puerta.jpg" width="200"/>  
+<img src="pictures/vista-3d.jpg" width="500"/>
   
 ### Author
 Jorge Miguel González Novez  |  _Senior Technician in Electrotechnical and Automated Systems_
