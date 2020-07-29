@@ -15,7 +15,7 @@ Jorge Miguel González Novez  |  _Senior Technician in Electrotechnical and Auto
 
 ### Operating Instructions  
 
-TO-DO
+- [Operating instructions](./docs/operating-instructions.md)
 
 ### Liability
 
