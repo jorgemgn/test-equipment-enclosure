@@ -5,7 +5,7 @@
 <img src=images/3d-view.jpg/>
   
 ### Author
-Jorge Miguel González Novez  |  _Senior Technician in Electrotechnical and Automated Systems_
+Jorge Miguel González Novez  |  _Technician in Electrotechnical and Automated Systems_
 
 ### Wiring diagrams and images  
 - [Wiring](./docs/final-wiring.pdf)  
