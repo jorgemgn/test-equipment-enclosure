@@ -1,6 +1,10 @@
-# Test equipment enclosure
+# License
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE.md)
+<img src="images/license_cc_by-nc-nd.png" width="200"/>
+
+- [More info about CC license](./images/cc-license.png)
+
+# Test equipment enclosure
 
 <img src=images/3d-view.jpg/>
   
