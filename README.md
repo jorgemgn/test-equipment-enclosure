@@ -1,5 +1,5 @@
 ```diff
-  An updated control panel and wiring diagram will be released soon
+  An updated will be released soon
 ```
 # License
 
