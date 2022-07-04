@@ -1,12 +1,6 @@
 ```diff
 Last wiring diagrams: July 4, 2022
 ```
-# License
-
-<img src="images/license_cc_by-nc-nd.png" width="200"/>
-
-- [More info about CC license](./images/cc-license.png)
-
 # Test equipment enclosure
   
 ### Author
@@ -38,3 +32,9 @@ Always follow the 5 golden rules.**
 <img src="images/eplan.png" width="100"/> 
 
 <https://www.eplaneducation.es/es/download-eplan-education/eplan-education>  
+
+# License
+
+<img src="images/license_cc_by-nc-nd.png" width="200"/>
+
+- [More info about CC license](./images/cc-license.png)
