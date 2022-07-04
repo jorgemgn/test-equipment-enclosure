@@ -1,5 +1,5 @@
 ```diff
-  An updated will be released soon
+Last wiring diagrams: July 4, 2022
 ```
 # License
 
@@ -8,8 +8,6 @@
 - [More info about CC license](./images/cc-license.png)
 
 # Test equipment enclosure
-
-<img src=images/3d-view.jpg/>
   
 ### Author
 Jorge Miguel González Novez  |  _Technician in Electrotechnical and Automated Systems_
